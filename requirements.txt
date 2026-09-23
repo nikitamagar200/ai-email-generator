@@ -1,6 +1,5 @@
-langchain
-dotenv
+streamlit
 langchain-core
 langchain-groq
-streamlit
-streamlit-copy-to-clipboard
+python-dotenv
+st-copy
